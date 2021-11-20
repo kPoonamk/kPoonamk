@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Poonam Kaur
+- 👀 I’m interested in hiring developers for an IT organisation
+- 🌱 I’m currently looking for PHP, Android, Flutter, MERN/MEAN,DOTnet Anaplan model builde
+- 📫 How to reach me hr@digitechsoft.com
